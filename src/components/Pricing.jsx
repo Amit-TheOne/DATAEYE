@@ -52,7 +52,7 @@ const Pricing = () => {
             src={Triple}
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
+          <h2 className="text-2xl font-bold text-center py-8">Group Account</h2>
           <p className="text-center text-4xl font-bold">$299</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">5 TB Storage</p>
